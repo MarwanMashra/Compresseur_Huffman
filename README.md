@@ -37,8 +37,8 @@ La compilation est faite par le script uniquement si besoin (si le fichier C n'a
 
 
 ----------------------------------------------------------------------------
-M.MASHRA Marwan    
-M.CAO Anh   
+MASHRA Marwan    
+CAO Anh   
 L2-info    
 Université de Montpellier   
 2019
